@@ -79,7 +79,7 @@ export default {
     importError: '键值不匹配',
     importRepeatTitle: '标题重复跳过：{msg}',
     importRepeatContent: '内容重复跳过：{msg}',
-    onlineImportWarning: '开头输入 [[/]] 或者 [[空格]] 可快速查找配置 Prompt 预设。',
+    onlineImportWarning: '开头输入 [/] 或者 [空格] 可快速查找配置 Prompt 预设。',
     downloadError: '请检查网络状态与 JSON 文件有效性',
   },
 }
