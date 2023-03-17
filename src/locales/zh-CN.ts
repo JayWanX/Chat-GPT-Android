@@ -29,7 +29,7 @@ export default {
   },
   chat: {
     placeholder: '来说点什么吧...（Shift + Enter = 换行）',
-    placeholderMobile: '和ta对话吧',
+    placeholderMobile: '说点什么吧ฅ(๑˙o˙๑)ฅ',
     copy: '复制',
     copied: '复制成功',
     copyCode: '复制代码',
