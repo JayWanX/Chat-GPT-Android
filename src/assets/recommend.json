@@ -2,13 +2,13 @@
   {
     "key": "chatgpt-prompt-collection",
     "desc": "JayWan收集整理的ChatGPT解除封印咒语",
-    "downloadUrl": "http://jaywan.top/ChatGPT/解除封印咒语.json",
+    "downloadUrl": "https://jaywan.top/ChatGPT/解除封印咒语.json",
     "url": "http://jaywan.top/ChatGPT/解除封印咒语.json"
   },
   {
     "key": "awesome-chatgpt-prompts-zh",
     "desc": "ChatGPT 中文调教指南",
-    "downloadUrl": "http://jaywan.top/ChatGPT/prompts-zh.json",
+    "downloadUrl": "https://jaywan.top/ChatGPT/prompts-zh.json",
     "url": "http://jaywan.top/ChatGPT/prompts-zh.json"
   }
 ]
