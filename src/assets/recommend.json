@@ -1,14 +1,14 @@
 [
   {
     "key": "chatgpt-prompt-collection",
-    "desc": "Nothing1024收集整理的prompts",
-    "downloadUrl": "https://raw.githubusercontent.com/Nothing1024/chatgpt-prompt-collection/main/awesome-chatgpt-prompts-zh.json",
-    "url": "https://github.com/Nothing1024/chatgpt-prompt-collection"
+    "desc": "JayWan收集整理的ChatGPT解除封印咒语",
+    "downloadUrl": "http://jaywan.top/ChatGPT/解除封印咒语.json",
+    "url": "http://jaywan.top/ChatGPT/解除封印咒语.json"
   },
   {
     "key": "awesome-chatgpt-prompts-zh",
     "desc": "ChatGPT 中文调教指南",
-    "downloadUrl": "https://raw.githubusercontent.com/PlexPt/awesome-chatgpt-prompts-zh/main/prompts-zh.json",
-    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh"
+    "downloadUrl": "http://jaywan.top/ChatGPT/prompts-zh.json",
+    "url": "http://jaywan.top/ChatGPT/prompts-zh.json"
   }
 ]
