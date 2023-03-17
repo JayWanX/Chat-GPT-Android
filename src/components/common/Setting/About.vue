@@ -52,16 +52,16 @@ onMounted(() => {
           如果觉得此App对你有帮助，可以给小猫<a class="text-blue-600 dark:text-blue-500" href="http://jaywan.top/Sponsored" target="_blank" > 买点零食 </a>。
         </p>
       </div>
-      /*<p>{{ $t("setting.api") }}：{{ config?.apiModel ?? '-' }}</p>
+      <p>{{ $t("setting.api") }}：{{ config?.apiModel ?? '-' }}</p>
       <p v-if="isChatGPTAPI">
-        {{ $t("setting.balance") }}：{{ config?.balance ?? '-' }}
+        //{{ $t("setting.balance") }}：{{ config?.balance ?? '-' }}
       </p>
       <p v-if="!isChatGPTAPI">
         {{ $t("setting.reverseProxy") }}：{{ config?.reverseProxy ?? '-' }}
       </p>
       <p>{{ $t("setting.timeout") }}：{{ config?.timeoutMs ?? '-' }}</p>
       <p>{{ $t("setting.socks") }}：{{ config?.socksProxy ?? '-' }}</p>
-      <p>{{ $t("setting.httpsProxy") }}：{{ config?.httpsProxy ?? '-' }}</p>*/
+      <p>{{ $t("setting.httpsProxy") }}：{{ config?.httpsProxy ?? '-' }}</p>
     </div>
   </NSpin>
 </template>
