@@ -329,6 +329,9 @@ const dataSource = computed(() => {
     <div class="space-y-4">
       <NTabs type="segment">
         <NTabPane name="local" :tab="$t('store.local')">
+					<p class="mb-4">
+            {{ $t('store.onlineImportWarning') }}
+          </p>
           <div
             class="flex gap-3 mb-4"
             :class="[isMobile ? 'flex-col' : 'flex-row justify-between']"
