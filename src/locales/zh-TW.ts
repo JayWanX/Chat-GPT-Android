@@ -79,8 +79,7 @@ export default {
     importError: '鍵值不符合',
     importRepeatTitle: '因標題重複跳過：{msg}',
     importRepeatContent: '因內容重複跳過：{msg}',
-		prompttip: '开头输入 [[/]] 或者 [[空格]] 可快速查找配置 Prompt 预设。',
-    onlineImportWarning: '注意：請檢查 JSON 檔案來源！',
+    onlineImportWarning: '开头输入 [[/]] 或者 [[空格]] 可快速查找配置 Prompt 预设。',
     downloadError: '請檢查網路狀態與 JSON 檔案有效性',
   },
 }
