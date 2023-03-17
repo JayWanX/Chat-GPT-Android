@@ -330,7 +330,7 @@ const dataSource = computed(() => {
       <NTabs type="segment">
         <NTabPane name="local" :tab="$t('store.local')">
 					<p class="mb-4">
-            {{ $t('store.prompttip') }}
+            {{ $t('store.onlineImportWarning') }}
           </p>
           <div
             class="flex gap-3 mb-4"
@@ -395,9 +395,6 @@ const dataSource = computed(() => {
           </NList>
         </NTabPane>
         <NTabPane name="download" :tab="$t('store.online')">
-          <p class="mb-4">
-            {{ $t('store.onlineImportWarning') }}
-          </p>
           <div class="flex items-center gap-4">
             <NInput v-model:value="downloadURL" placeholder="" />
             <NButton
