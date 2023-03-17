@@ -79,8 +79,7 @@ export default {
     importError: 'Key value mismatch',
     importRepeatTitle: 'Title repeatedly skipped: {msg}',
     importRepeatContent: 'Content is repeatedly skipped: {msg}',
-		prompttip: '开头输入 [[/]] 或者 [[空格]] 可快速查找配置 Prompt 预设。',
-    onlineImportWarning: 'Note: Please check the JSON file source!',
+    onlineImportWarning: '开头输入 [[/]] 或者 [[空格]] 可快速查找配置 Prompt 预设。',
     downloadError: 'Please check the network status and JSON file validity',
   },
 }
