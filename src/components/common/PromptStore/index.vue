@@ -330,7 +330,7 @@ const dataSource = computed(() => {
       <NTabs type="segment">
         <NTabPane name="local" :tab="$t('store.local')">
 					<p class="mb-4">
-            {{ $t('store.onlineImportWarning') }}
+            {{ $t('store.prompttip') }}
           </p>
           <div
             class="flex gap-3 mb-4"
