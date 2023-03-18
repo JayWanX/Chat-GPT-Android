@@ -21,6 +21,6 @@ const avatar = computed(() => userStore.userInfo.avatar)
     <NAvatar v-else round :src="defaultAvatar" />
   </template>
   <span v-else class="text-[28px] dark:text-white">
-    <img :src="'https://raw.githubusercontent.com/JayWanX/Chat-GPT-Android/main/src/assets/avatar.png'" alt="avatar"/>
+    <img :src="'https://raw.githubusercontent.com/JayWanX/Chat-GPT-Android/main/src/assets/avatar.png'" />
   </span>
 </template>
