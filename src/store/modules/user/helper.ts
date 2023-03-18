@@ -15,7 +15,7 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://jaywan.top/ChatGPT/avatar.jpg',
+      avatar: 'http://jaywan.top/ChatGPT/avatar.png',
       name: 'JayWan',
       description: ' <a href="http://vivo50.老婆.tk" class="text-blue-500" target="_blank" >无何不可</a>',
     },
